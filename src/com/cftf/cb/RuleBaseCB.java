@@ -1,9 +1,9 @@
+package com.cftf.cb;
 
-public class Test {
+public class RuleBaseCB {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("helloworld");
 
 	}
 
